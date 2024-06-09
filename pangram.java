@@ -1,8 +1,6 @@
 package Allproject;
 import java.util.Scanner;
 public class pangram{
-
-    
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string to check if it is a pangram: ");
